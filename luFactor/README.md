@@ -4,6 +4,6 @@
 **[A]** The user mus input a square coefficient matrix 
 ### Outputs:
 The function returns 3 matricies
-⋅⋅* **[L]** the lower triangular matrix
-⋅⋅* **[U]** the upper triangular matrix
-⋅⋅* and **[P]** the pivot matrix.
+* **[L]** the lower triangular matrix
+* **[U]** the upper triangular matrix
+* and **[P]** the pivot matrix.
