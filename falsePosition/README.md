@@ -1,5 +1,5 @@
 # False Position Algorithm
-## This algorithm is a **MATLAB** function that uses the False Position method to estimate the root of a function.
+###### This algorithm is a **MATLAB** function that uses the False Position method to estimate the root of a function.
 ### Inputs:
 * **func** Function user wants to find the root of.
 * **xl** Lower bound guess to bracket root.
