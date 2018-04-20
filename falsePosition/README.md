@@ -10,4 +10,4 @@
 * **root** The estimated location of the root.
 * **fx** The value of the function evaluated at the estimated root.
 * **ea** The approximate relative percent error.
-* and **iter** the number of iterations taken.
+* **iter** the number of iterations taken.
